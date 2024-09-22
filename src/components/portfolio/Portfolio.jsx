@@ -69,8 +69,8 @@ const data = [
     id: 8, 
     image: IMG8,
     title: 'Portfolio Website',
-    github: 'https://github.com/Mardoqueu/react-portfolio-website',
-    demo: 'https://react-portfolio-website-indol.vercel.app/',
+    github: 'https://github.com/knighthood121/Portfolio-Govinda',
+    demo: 'https://portfolio-govinda.vercel.app/',
   },
   {
     id: 9, 
