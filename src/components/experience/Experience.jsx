@@ -15,14 +15,14 @@ const Experience = () => {
                 <AiFillCheckCircle class='experience_details-icon'/>
                 <div>
                   <h4>HTML</h4>
-                  <small className='text-light'>Advanced</small>
+                  <small className='text-light'>Intermediary</small>
                 </div>
               </article>
               <article className='experience__details'>
                 <AiFillCheckCircle class='experience_details-icon'/>
                 <div>
                   <h4>CSS</h4>
-                  <small className='text-light'>Advanced</small>
+                  <small className='text-light'>Intermediary</small>
                 </div>
               </article>
               <article className='experience__details'>
@@ -36,7 +36,7 @@ const Experience = () => {
                 <AiFillCheckCircle class='experience_details-icon'/>
                 <div>
                   <h4>Bootstrap</h4>
-                  <small className='text-light'>Advanced</small>
+                  <small className='text-light'>Intermediary</small>
                 </div>
               </article>
               <article className='experience__details'>
@@ -85,7 +85,7 @@ const Experience = () => {
                 <AiFillCheckCircle class='experience_details-icon'/>
                 <div>
                   <h4>Firebase</h4>
-                  <small className='text-light'>Intermediary</small>
+                  <small className='text-light'>Basic</small>
                 </div>
               </article>
               {/* <article className='experience__details'>
